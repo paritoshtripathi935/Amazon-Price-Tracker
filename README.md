@@ -43,4 +43,4 @@ End with an example of getting some data out of the system or using it for a lit
 
 ## Usage <a name = "usage"></a>
 
-Add notes about how to use the system.
+Refer to this notion doc - https://paritoshtripathi.notion.site/Amazon-Price-Tracker-60e41895803640928cbd33dea7b3e1bc
